@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Sadia2011
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Sadia 👋
 
-<!---
-Sadia2011/Sadia2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Science graduate with experience in IT Help Desk, Service Desk, database management, and software development. I enjoy solving technical problems, building applications, and continuously learning new technologies.
+
+## 💻 Technical Skills
+- Java, C, C++, Python, JavaScript, TypeScript, SQL
+- HTML, CSS, JSP
+- Oracle Database, MySQL
+- Android Studio, Visual Studio
+- Git & GitHub
+- Microsoft 365, Google Workspace
+- ServiceNow, Salesforce
+
+## 📚 Projects
+Here you'll find projects from my coursework and personal learning, including:
+- Android applications
+- Java applications
+- Database management projects
+- Web development projects
+
+## 🌱 Currently Learning
+- IT Support & System Administration
+- Cloud Technologies
+- Cybersecurity Fundamentals
